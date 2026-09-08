@@ -67,12 +67,6 @@ I am a driven 3rd-year B.Tech student at St. Mary's Engineering College with a s
 - **Technologies Used:** HTML, CSS, JavaScript, Java
 - **Description:** A comprehensive web-based application for managing fashion design projects and client information
 
-### **Career Path**
-- **Technologies Used:** HTML, CSS, JavaScript, Java
-- **Description:** An interactive platform for career guidance and professional development
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **District Level Kabaddi Winner**
